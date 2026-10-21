@@ -1,0 +1,12 @@
+{
+  "name": "Retos",
+  "short_name": "Retos",
+  "description": "Cumplí tus retos y subí de rango.",
+  "lang": "es-UY",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#221c35",
+  "theme_color": "#221c35",
+  "icons": [{ "src": "logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
